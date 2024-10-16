@@ -1,6 +1,7 @@
-# AHK scripts
-Install AHK 2.0: https://www.autohotkey.com/
+# AHK 2.0
+Download: https://www.autohotkey.com/
 
+# AHK scripts
 <details>
 <summary> MouseOnlyAE </summary>
 <br>
